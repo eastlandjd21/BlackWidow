@@ -1,2 +1,8 @@
 # BlackWidow
-An adaptation of the old arcade game Black Widow. 
+W = up
+A = left
+S = down
+D = right
+Space = shoot
+P = pause
+- you can not rotate
